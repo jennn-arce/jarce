@@ -1,8 +1,6 @@
 este es el texto con que iniciamos los ensayos
-
-
+acá creo que vamos a crear una extensión de la rama.
 esto es una prueba
-
 prueba para generar una rama
-
+extensión adicional rama
 jennnifer parece que no ha hecho su parte
